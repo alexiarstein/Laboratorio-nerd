@@ -1,0 +1,52 @@
+Aquí sólo hay palabras.
+Aquí no hay demasiado para mostrar. Tan sólo palabras.
+
+Pero vos las estás leyendo.
+
+La web de hoy, de la cual formamos parte quienes desarrollamos,
+administramos o implementamos algo relacionado con las tecnologías de la información 
+parece estar obsesionada con diseños pitucos, layouts responsives y un sin fin de scripts que hacen de todo
+
+Pero la herramienta más poderosa en la web continúa siendo la palabra.
+
+El hecho que yo haya escrito esto y vos lo estés leyendo es algo increible.
+En estos momentos estoy frente a mi computadora, en un modesto departamento de Capital Federal, Buenos Aires, Argentina.
+
+Vos probablemente estés en otro lugar.
+Yo escribí estas palabras un 17 de junio del 2022, un viernes de mucho frío,
+por la noche, mientras me recupero de un resfrio fuerte, covid, o gripe.
+Esto lo escribí desde mi PC con Linux Redhat Enterprise 8.5,
+y quizás vos lo estés leyendo desde una laptop con windows,
+una macbook, un celular o una tablet inclusive.
+
+Vos y yo nos hemos podido conectar trascendiendo el aquí y el ahora, 
+a través de una página HTML mega básica.
+Así era la web que toqué con mis manos por primera vez en los 90s. Y esa es la web que extraño.
+La que me generaba emociones increíbles al descubrir tantas cosas nuevas.
+
+Es verdad que, quienes me conocen saben que soy desarrolladora fullstack php y
+que tranquilamente podría haber utilizado bootstrap,
+scripts de todo tipo y un sin fin de boludeces
+
+para chapear y mostrarle al mundo todo lo que soy capaz de hacer desde visual studio code, pero,
+¿Qué hay de mi otro perfil? de la mujer autora, la que ama contar historias
+la que sueña, la que escribe música, la artista, 
+aquella que aún conserva su corazón de niño a pesar de que tiene casi 40 años.
+
+¿Cómo podría php, bootstrap, angular, node.js o css3 mostrar esa otra cara?
+
+¿Ves? Todavía seguís leyendo.
+
+Pensá la cantidad de cosas que podrías hacer con HTML básico, por que no importa de que esté hecho tu portal.
+Si tus palabras son buenas, la gente las leerá.
+
+En el fondo. En la era de la información, el alma de todo software,
+producto o portal, deberían ser las palabras.
+
+El diseño siempre viene después.
+
+Las palabras son el motor, el foco, el propósito y el canal para entregar ideas que nos hagan pensar,
+crecer, y expandir nuestro universo.
+
+Empezá con palabras.
+Alexia Michelle Rivera - github.com/alexiarstein
